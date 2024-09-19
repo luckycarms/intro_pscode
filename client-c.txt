@@ -1,4 +1,11 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+Sorting
+Number of products per package is 2
+Number of pacakges per case is 50
+product count starts at 2
+While the count is less than but equal to 50
+    SHOW the count of products and DISPLAY that number then Add 2 to product count
+    Product count si the count plus an additional 2
+Once the count reaches 50 the sorting will stop
