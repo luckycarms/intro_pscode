@@ -1,4 +1,17 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+Customer wants to go to specific Aisle number
+Aisle number starts at 0
+INPUT customer enters specific aisle number
+WHILE aise number customer wants is different from zero
+    IF aisle number is East THEN
+        MOVE East
+    IF aisle number is West THEN
+        Move West
+    IF aisle number is South THEN
+        Move South
+    Else
+        Move North
+Once customer finds aisle app Shows Checkmark
+    
