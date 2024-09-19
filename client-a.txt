@@ -1,4 +1,14 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+Guessing game 1-10
+OUTPUT what random number will the computer choose
+INPUT   player will click enter/return on keyboard so computer can choose
+STORE   computer input as random
+OUTPUT what number does player choose
+INPUT   player chooses a number displayed
+STORE player input as guess
+IF guess = random
+    OUTPUT Correct!
+ELSE
+    OUTPUT Try again!
